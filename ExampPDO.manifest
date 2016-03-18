@@ -12,6 +12,7 @@
 	"institutions" : "[ 'Beth Isreal Deaconess Medical Center' ]",
 	"keywords" : "[ 'example', 'pdo', 'patients','webclient' ]",
 	"package" : "https://github.com/i2b2plugins/wc-devExamp3-pdo/archive/v1.5.zip",
+	"icon" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp3-pdo/master/i2b2-icon.png",
 	"userManual" : "",
 	"installGuide" : "",
 	"configuration" : "None",
